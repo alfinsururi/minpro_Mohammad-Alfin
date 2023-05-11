@@ -1,0 +1,3 @@
+class input_Model {
+
+}

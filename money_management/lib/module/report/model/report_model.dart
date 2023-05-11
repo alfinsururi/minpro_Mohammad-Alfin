@@ -1,0 +1,3 @@
+class report_Model {
+
+}
